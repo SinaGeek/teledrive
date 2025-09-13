@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['Sina94.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
-    "bot"
+    "bot",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
